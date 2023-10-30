@@ -1,10 +1,10 @@
 🚀 **Immediately available| Full Stack .NET Developer | AZ-204 Certified Azure Developer**
 
 I've worked for various MNCs and developed various enterprise solutions for them as follows:
-  ✅ Wells Fargo
-  ✅ Winshuttle(Now precisely)
-  ✅ FIS Global
-  ✅ Smartadat Inc
+  - Wells Fargo
+  - Winshuttle(Now precisely)
+  - FIS Global
+  - Smartadat Inc
 
 ⭐ Here's what I can bring to your project ⭐
 ✅ Top-notch experience in dot net core, front-end (Angular, React js), databases(SQL, No Sql)
