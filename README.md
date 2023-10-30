@@ -8,7 +8,6 @@ I've worked for various MNCs and developed various enterprise solutions for them
 ✅ Smartadat Inc
 
 ⭐ Here's what I can bring to your project ⭐
-
 ✅ Top-notch experience in dot net core, front-end (Angular, React js), databases(SQL, No Sql)
 ✅ Extensive experience working with large enterprise applications
 ✅ Expert understanding of data security while development
