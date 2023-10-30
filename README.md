@@ -1,7 +1,6 @@
 🚀 **Immediately available| Full Stack .NET Developer | AZ-204 Certified Azure Developer**
 
-I've worked for various MNCs and developed various enterprise solutions for them as follows:
-
+I've worked for various MNCs and developed various enterprise solutions for them as follows
 ✅ Wells Fargo
 ✅ Winshuttle(Now precisely)
 ✅ FIS Global
