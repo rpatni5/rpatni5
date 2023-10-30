@@ -34,20 +34,20 @@ I've worked for various MNCs and developed various enterprise solutions for them
 - Able to multi-task in a fast-paced environment with a focus on timeliness, documentation, and effective communication with peers
 
 ⭐ My Technical expertise: ⭐
-1. Microsoft Azure(Azure Functions, Azure SQL Database), Asp.Net MVC, Web API, WPF, Winforms, MAUI, WinUI3, C#, Entity Framework, LINQ, SQL, and SSRS
-2. Design Pattern:
-- Ioc/ DI Pattern using NInject and StructureMap
-- Repository & Unit of Work Pattern
-- Singleton, Factory Pattern
-- MVVM using MVVM Toolkit
-3. Third-Party Components:
-- Telerik
-- DevEx
-- ComponentOne
-- Fusion Charts
-- Geomaps (Google Maps, MapQuest, Bing Maps, LeafLet.js)
-4. RESTful Services development and integration
-5. Devices Integration - Pedometer, Blood Glucose Meter, BP Monitor, Cash Drawer, Weighing Scale, Receipt Printer
+💼 Backend Expertise:
+Proficient in .NET Core and C#.
+AZ-204 Azure Developer certification.
+
+🌐 Front-End Proficiency:
+Skilled in Angular, React js, HTML, JavaScript, TypeScript, CSS.
+WPF and XAML experience.
+
+💾 Database Mastery:
+Proficient in SQL Server and MongoDB.
+
+🌥 Cloud Experience:
+Certified AZ-204 Azure Developer.
+Expertise in cloud-based architecture and integration.
 
 
   
