@@ -1,5 +1,7 @@
 🚀 **Immediately available| Full Stack .NET Developer | AZ-204 Certified Azure Developer**
 
+🙋🏽‍♂️About Me
+I am Ravi Patni, having 9 years of development experience in dot net tech stack.
 I've worked for various MNCs and developed various enterprise solutions for them as follows:
   - Wells Fargo
   - Winshuttle(Now precisely)
