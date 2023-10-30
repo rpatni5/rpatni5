@@ -34,20 +34,21 @@ I've worked for various MNCs and developed various enterprise solutions for them
 - Able to multi-task in a fast-paced environment with a focus on timeliness, documentation, and effective communication with peers
 
 ⭐ My Technical expertise: ⭐
-💼 Backend Expertise:
-Proficient in .NET Core and C#.
-AZ-204 Azure Developer certification.
 
-🌐 Front-End Proficiency:
-Skilled in Angular, React js, HTML, JavaScript, TypeScript, CSS.
-WPF and XAML experience.
-
-💾 Database Mastery:
-Proficient in SQL Server and MongoDB.
-
-🌥 Cloud Experience:
-Certified AZ-204 Azure Developer.
-Expertise in cloud-based architecture and integration.
+    💼 Backend Expertise:
+    Proficient in .NET Core and C#.
+    AZ-204 Azure Developer certification.
+    
+    🌐 Front-End Proficiency:
+    Skilled in Angular, React js, HTML, JavaScript, TypeScript, CSS.
+    WPF and XAML experience.
+    
+    💾 Database Mastery:
+    Proficient in SQL Server and MongoDB.
+    
+    🌥 Cloud Experience:
+    Certified AZ-204 Azure Developer.
+    Expertise in cloud-based architecture and integration.
 
 
   
