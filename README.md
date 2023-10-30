@@ -7,22 +7,21 @@ I've worked for various MNCs and developed various enterprise solutions for them
   - Smartadat Inc
 
 ⭐ Here's what I can bring to your project ⭐
-✅ Top-notch experience in dot net core, front-end (Angular, React js), databases(SQL, No Sql)
-✅ Extensive experience working with large enterprise applications
-✅ Expert understanding of data security while development
-✅ Ability to quickly diagnose performance issues and identify review points
-✅ Expert ability in designing architecture of applications and DB
-✅ 24/7 ultra-reliable communication: you will always be aware of the project status
-✅ Someone who cares about helping you succeed and bringing value to your business
+- Top-notch experience in dot net core, front-end (Angular, React js), databases(SQL, No Sql)
+- Extensive experience working with large enterprise applications
+- Expert understanding of data security while development
+- Ability to quickly diagnose performance issues and identify review points
+- Expert ability in designing architecture of applications and DB
+- 24/7 ultra-reliable communication: you will always be aware of the project status
+- Someone who cares about helping you succeed and bringing value to your business
 
 ⭐ Why you should choose me⭐
-
-✅Extensive 9 years of experience in Full Stack Development
-✅ Client Reviews: I focus on providing value to all of my clients and earning their TRUST.
-✅ Over-delivering: My focus is on giving more than what I expect to receive. I take pride in leaving all of my clients saying "WOW"
-✅ Responsiveness: being extremely responsive and keeping all lines of communication readily open with my clients.
-✅ Resilience: reach out to any of my current or former clients and ask them about my resilience. For any issue that my clients face, I attack them and find a solution.
-✅ Kindness: one of the main aspects of my life that I implement in every facet. Treating everyone with respect, understand all situations with empathy, and genuinely want to improve my client's situations.
+- Extensive 9 years of experience in Full Stack Development
+- Client Reviews: I focus on providing value to all of my clients and earning their TRUST.
+- Over-delivering: My focus is on giving more than what I expect to receive. I take pride in leaving all of my clients saying "WOW"
+- Responsiveness: being extremely responsive and keeping all lines of communication readily open with my clients.
+- Resilience: reach out to any of my current or former clients and ask them about my resilience. For any issue that my clients face, I attack them and find a solution.
+- Kindness: one of the main aspects of my life that I implement in every facet. Treating everyone with respect, understand all situations with empathy, and genuinely want to improve my client's situations.
 
 🏆 My Personal Traits are 🏆
 - Excellent problem-solving, analytical, and decision-making
