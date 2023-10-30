@@ -3,14 +3,12 @@
 I've worked for various MNCs and developed various enterprise solutions for them as follows:
 
 ✅ Wells Fargo
-
 ✅ Winshuttle(Now precisely)
-
 ✅ FIS Global
-
 ✅ Smartadat Inc
 
 ⭐ Here's what I can bring to your project ⭐
+
 ✅ Top-notch experience in dot net core, front-end (Angular, React js), databases(SQL, No Sql)
 ✅ Extensive experience working with large enterprise applications
 ✅ Expert understanding of data security while development
@@ -20,6 +18,7 @@ I've worked for various MNCs and developed various enterprise solutions for them
 ✅ Someone who cares about helping you succeed and bringing value to your business
 
 ⭐ Why you should choose me⭐
+
 ✅Extensive 9 years of experience in Full Stack Development
 ✅ Client Reviews: I focus on providing value to all of my clients and earning their TRUST.
 ✅ Over-delivering: My focus is on giving more than what I expect to receive. I take pride in leaving all of my clients saying "WOW"
