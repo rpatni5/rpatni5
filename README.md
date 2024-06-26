@@ -2,7 +2,7 @@
 
 🙋🏽‍♂️About Me
 
-I am Ravi Patni, and I have 9 years of development experience in dot net tech stack.
+I am Ravi Patni, and I have 10 years of development experience in dot net tech stack.
 I've worked for various MNCs and developed various enterprise solutions for them as follows:
   - Wells Fargo
   - Winshuttle(Now precisely)
